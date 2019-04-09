@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: user-salary
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ankit.tripathi
+Implementation-Vendor-Id: com.crosscode_program
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/Application_
+ 2DB_82_change/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

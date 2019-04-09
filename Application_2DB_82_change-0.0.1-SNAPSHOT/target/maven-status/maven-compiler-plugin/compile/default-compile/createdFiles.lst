@@ -1,0 +1,12 @@
+com\crosscode1\program\ProcessRestController.class
+com\crosscode1\program\UserConfiguration.class
+com\crosscode1\program\UserController.class
+com\crosscode1\program\repository\User.class
+META-INF\spring-configuration-metadata.json
+com\crosscode1\program\UserService.class
+com\crosscode1\program\salrepository\SalaryRepository.class
+com\crosscode1\program\SalaryConfiguration.class
+com\crosscode1\program\salrepository\UserSalary.class
+com\crosscode1\program\UserSalaryApplication.class
+com\crosscode1\program\SalaryService.class
+com\crosscode1\program\repository\UserRepository.class
